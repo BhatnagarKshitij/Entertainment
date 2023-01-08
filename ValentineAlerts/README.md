@@ -11,10 +11,6 @@ Valentine Alert is a simple python program that pop ups various alert boxes forc
 - Run main.py file with custom text (Python should be pre-installed)
 - To create your own .exe file, use py2exe. Donwload setup.py to generate.exe
 
-
-Dillinger is currently extended with the following plugins.
-Instructions on how to use them in your own application are linked below.
-
 ## Development
 
 Want to contribute? Great!
